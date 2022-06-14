@@ -9,5 +9,11 @@
 * The cursor will then move to the botttom this where you will save the context within the file with this instructions.
 * The keys to save and leave the edit is :wq.
 
+
+* Then you have to git add . (adds all the files within the directory)
+* Then you have to git pull the main branch
+* Yo can also check branch you in with the git command "git branch -v"
+* Then you can git push origin main 
+
 Very Enjoyable Task to do through shell usedd to doing this on visual studio code and atom ide
 
